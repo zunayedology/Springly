@@ -1,7 +1,7 @@
 # SPRINGLY
 A demo Spring Boot application with authentication.
 
-## Technologies
+### Technologies
 
 - Java 17
 - Maven 4
@@ -9,7 +9,7 @@ A demo Spring Boot application with authentication.
 - JSON Web Token 0.11.5
 - PostgreSQL 17
 
-## Dependencies
+### Dependencies
 
 - Spring Web
 - Spring Boot DevTools
