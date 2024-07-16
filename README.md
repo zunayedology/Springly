@@ -6,6 +6,7 @@ A demo Spring Boot application with authentication.
 - Java 17
 - Maven 4
 - Spring Boot 3.3.1
+- Spring Security 6
 - JSON Web Token 0.11.5
 - PostgreSQL 16
 
