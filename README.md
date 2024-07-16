@@ -18,4 +18,4 @@ A demo Spring Boot application with authentication.
 - Lombok
 - JDBC API
 - CycloneDX SBOM Support
-- Jackson JWT
+- Java JWT
