@@ -1,5 +1,5 @@
 # SPRINGLY
-A demo Spring Boot application with authentication.
+A Spring Boot application with JWT Authentication.
 
 ### Technologies
 
