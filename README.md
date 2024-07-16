@@ -8,7 +8,6 @@ A demo Spring Boot application with authentication.
 - Spring Boot 3.3.1
 - JSON Web Token 0.11.5
 - PostgreSQL 16
-- Supabase
 
 ### Dependencies
 
