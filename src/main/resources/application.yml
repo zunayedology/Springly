@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres
-    username: postgres.eoiwoktwzkzcvkrbhwys
-    password: pc!!@udA#GGYHP2
+    url: jdbc:postgresql://localhost:5432/springly
+    username: postgres
+    password: 280899
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
